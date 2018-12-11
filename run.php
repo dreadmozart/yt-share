@@ -8,10 +8,10 @@
 
 
 // set parameters here
-$videoId = "g3ZvyMCEH3c";
-$email = "dreadmozart@gmail.com";
-$password = "xCektatech1488!x";
-$share_emails = "gusarovarseniy@gmail.com, npogurova@gmail.com";
+$videoId = "V_qHRAJzEVs";
+$email = "npogurova@gmail.com";
+$password = "Cektatech1488!";
+$share_emails = "gusarovarseniy@gmail.com, dreadmozart@gmail.com";
 $notify_users = true;
 
 
